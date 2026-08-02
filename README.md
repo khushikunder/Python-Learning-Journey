@@ -10,3 +10,10 @@ Day 1
 - Operators
 - Type Casting
 - Practice Programs
+
+Day 2
+- Strings
+- String Methods
+- String Indexing
+- String Slicing
+
