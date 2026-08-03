@@ -1,0 +1,9 @@
+item=[]
+while True:
+    num=input("Enter an element type exit to stop:")
+    if num.lower()=="exit":
+        break
+    item.append(num)
+
+for char in item:
+     print(char)
