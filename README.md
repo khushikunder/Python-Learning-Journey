@@ -17,3 +17,8 @@ Day 2
 - String Indexing
 - String Slicing
 
+Day 3
+- Lists
+- List Methods
+-  Practice Programs
+
