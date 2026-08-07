@@ -22,3 +22,12 @@ Day 3
 - List Methods
 -  Practice Programs
 
+Day 4
+-tuple
+-tuple Methods
+-Practise programs
+
+Day 5
+-Dictionary
+-Methods
+-nested Dictionary
