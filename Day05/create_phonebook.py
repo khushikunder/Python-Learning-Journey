@@ -20,10 +20,14 @@ while True:
         
     elif inp==3:
         name=input("Enter name:")
-        del phonebook[name]
-        print(phonebook)
+        if name in phonebook:
+            del phonebook[name]
+            print("Contact deleted.")
+        else:
+             print("Contact not found.")
     elif inp==4:
-        phonebook.items()
+        for name, number in phonebook.items():
+            print(name, ":", number)
     elif inp==5:
         break
     else:

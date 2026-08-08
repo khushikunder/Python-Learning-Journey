@@ -7,5 +7,5 @@ marks = {
 
 key=max(marks.keys())
 print("Subject:",key)
-print("Maximum marks:",marks[key])
+print("Maximum marks:",marks[key]) 
 
